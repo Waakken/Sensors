@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>tahti.png</file>
+        <file>pisara.png</file>
+        <file>hiutale.png</file>
+    </qresource>
+</RCC>
